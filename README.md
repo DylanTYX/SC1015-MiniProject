@@ -11,20 +11,20 @@ According to the World Health Organization (WHO), stroke is the 2nd leading caus
 
 ## Repository Contents
 1. [Data_Cleaning.ipynb](Data_Cleaning.ipynb)
-2. [Data_Modeling.ipynb](#Data_Modeling.ipynb)
-3. [Exploratory_Data_Analysis.ipynb](#Exploratory_Data_Analysis.ipynb)
-4. [LICENSE](#LICENSE)
-5. [README.md](#README.md)
-6. [cleaned_data.csv](#cleaned_data.csv)
+2. [Data_Modeling.ipynb](Data_Modeling.ipynb)
+3. [Exploratory_Data_Analysis.ipynb](Exploratory_Data_Analysis.ipynb)
+4. [LICENSE](LICENSE)
+5. [README.md](README.md)
+6. [cleaned_data.csv](cleaned_data.csv)
    - This is our dataset after data cleaning.
-7. [healthcare-dataset-stroke-data.csv](#healthcare-dataset-stroke-data.csv)
+7. [healthcare-dataset-stroke-data.csv](healthcare-dataset-stroke-data.csv)
    - This is the original uncleaned dataset.
 
 ## File Description
 For detailed walkthrough, please view the source code in the following order:
-1. [Data Cleaning](#Data_Cleaning.ipynb)
-2. [Exploratory Data Analysis](#Exploratory_Data_Analysis.ipynb)
-3. [Data Modeling](#Data_Modeling.ipynb)
+1. [Data Cleaning](Data_Cleaning.ipynb)
+2. [Exploratory Data Analysis](Exploratory_Data_Analysis.ipynb)
+3. [Data Modeling](Data_Modeling.ipynb)
 
 ## Installation Instructions
 ### Models Used
