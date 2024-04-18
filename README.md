@@ -10,18 +10,21 @@ According to the World Health Organization (WHO), stroke is the 2nd leading caus
 - Which machine learning model would best predict the likelihood of stroke occurrence in individuals?
 
 ## Repository Contents
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributors](#contributors)
-5. [License](#license)
-6. [References](#references)
+1. [Data_Cleaning.ipynb](#Data_Cleaning.ipynb)
+2. [Data_Modeling.ipynb](#Data_Modeling.ipynb)
+3. [Exploratory_Data_Analysis.ipynb](#Exploratory_Data_Analysis.ipynb)
+4. [LICENSE](#LICENSE)
+5. [README.md](#README.md)
+6. [cleaned_data.csv](#cleaned_data.csv)
+   - This is our dataset after data cleaning.
+7. [healthcare-dataset-stroke-data.csv](#healthcare-dataset-stroke-data.csv)
+   - This is the original uncleaned dataset.
 
 ## File Description
 For detailed walkthrough, please view the source code in the following order:
-1. [Data Cleaning](#DataCleaning.ipynb)
-2. [Exploratory Data Analysis](#ExploratoryDataAnalysis.ipynb)
-3. [Data Modelling](#DataModelling.ipynb)
+1. [Data Cleaning](#Data_Cleaning.ipynb)
+2. [Exploratory Data Analysis](#Exploratory_Data_Analysis.ipynb)
+3. [Data Modeling](#Data_Modeling.ipynb)
 
 ## Installation Instructions
 ### Models Used
