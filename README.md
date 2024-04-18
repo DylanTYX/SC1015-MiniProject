@@ -10,7 +10,7 @@ According to the World Health Organization (WHO), stroke is the 2nd leading caus
 - Which machine learning model would best predict the likelihood of stroke occurrence in individuals?
 
 ## Repository Contents
-1. [Data_Cleaning.ipynb](#Data_Cleaning.ipynb)
+1. [Data_Cleaning.ipynb](Data_Cleaning.ipynb)
 2. [Data_Modeling.ipynb](#Data_Modeling.ipynb)
 3. [Exploratory_Data_Analysis.ipynb](#Exploratory_Data_Analysis.ipynb)
 4. [LICENSE](#LICENSE)
